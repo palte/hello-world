@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+Just a simple repo to try gh out before anything serious
